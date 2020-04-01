@@ -1,0 +1,18 @@
+{
+    "name": "pioniro/contextable-exception",
+    "type": "library",
+    "license": "MIT",
+    "description": "Adds context to your exceptions",
+    "authors": [
+        {
+            "name": "Aleksey Fedorov",
+            "email": "pioniro@yandex.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Pioniro\\ContextableException\\": "src/"
+        }
+    }
+}
